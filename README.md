@@ -2,6 +2,6 @@ Repositório dedicado a criação de um site simples desenvolvido em HTML, CSS, 
 
 By: Arthur Hauck Dittz
     Geremias Cipriano
-    João Plinio
+    João Plinio<br>
     Luísa Maria
     Matheus Rocha
