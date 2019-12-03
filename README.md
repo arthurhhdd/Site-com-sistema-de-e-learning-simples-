@@ -1,5 +1,7 @@
-# Welcome to GitHub Desktop!
+Repositório dedicado a criação de um site simples desenvolvido em HTML, CSS, javascript, bootstrap e jquery com uma interface de e-learning simples.
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+By: Arthur Hauck Dittz
+    Geremias Cipriano
+    João Plinio
+    Luísa Maria
+    Matheus Rocha
